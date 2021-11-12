@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "266087303269",
+    "project_id": "mori2-b4e51",
+    "storage_bucket": "mori2-b4e51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266087303269:android:0d681925e50be6a5781e8c",
+        "android_client_info": {
+          "package_name": "com.mori.listener.aos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266087303269-4ulnct4p62c3vpdmiiu8i6dt899k7bto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mori.listener.aos",
+            "certificate_hash": "d0b5e23ff758c2e71d0c93b7f4b4f0a17c1e35c1"
+          }
+        },
+        {
+          "client_id": "266087303269-8ippuekl338btn97f31gvgrnmrf4lne3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mori.listener.aos",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "266087303269-oofub3uugjm2nebur4a1dm8mpm1fq1v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMvJI_oXvvwVvOH8OFyxTzIlMWwFqqY7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266087303269-oofub3uugjm2nebur4a1dm8mpm1fq1v5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "266087303269-uct848to1j9qtc1qj1os2filsg70n1ta.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.morilistener.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266087303269:android:07ec04e151d6e4fb781e8c",
+        "android_client_info": {
+          "package_name": "com.mori.translate.aos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266087303269-oofub3uugjm2nebur4a1dm8mpm1fq1v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMvJI_oXvvwVvOH8OFyxTzIlMWwFqqY7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266087303269-oofub3uugjm2nebur4a1dm8mpm1fq1v5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "266087303269-uct848to1j9qtc1qj1os2filsg70n1ta.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.morilistener.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
